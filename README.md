@@ -1,7 +1,7 @@
 # start-here
 An overview of my projects across multiple domains and technologies.
 
-# Welcome
+## Welcome
 Hi there! I'm Hassan. This is a place to showcase my projects and any interesting bits I find in my engineering journey.
 
 ## 🚀 Current Skills
