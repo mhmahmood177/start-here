@@ -9,10 +9,10 @@ Hi there! I'm Hassan. This is a place to showcase my projects and any interestin
 - Linux
 
 ## 📚 Learning Goals
-- Systems Engineering
-- Programming
-- Fundamentals of Computing
-- And anything else to become grounded as an engineer
+- Infrastructure Engineering
+- Cloud Native architecture
+- Building business aligned systems
+- Automation & Delivery
 
 ## 🗂️  Projects
 - (Coming Soon)
